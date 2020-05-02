@@ -16,7 +16,7 @@ class Logger:
     def save_log(self, info_list):
         log = open(self.filename, 'w', encoding='utf-8')
 
-        log.write(str(datetime.now()) + '\n')
+        log.write(str(datetime.now()) + '\n\n')
         log.write('IP To Info Detective\n\n')
         log.write('IP: ' + info_list[0] + '\n')
         log.write('Country: ' + info_list[1] + '\n')
