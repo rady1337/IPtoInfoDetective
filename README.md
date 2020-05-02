@@ -8,9 +8,10 @@ Tool for getting IP address information.
 
 # Installation
 ```
-git clone (link)
-cd
+git clone https://github.com/rady1337/IPtoInfoDetective.git
+cd IPtoInfoDetective
 pip3 install -r requirements.txt
+python3 iptoinfo.py
 ``` 
 
 # Usage
