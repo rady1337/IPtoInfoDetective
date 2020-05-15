@@ -25,7 +25,7 @@ python3 iptoinfo.py -t 132.123.12.32
 ```
 
 # Photo
-[click](https://github.com/rady1337/IPtoInfoDetective/img/example.png)
+[click](https://github.com/rady1337/IPtoInfoDetective/blob/master/img/example.png)
 
 
 ```
